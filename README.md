@@ -166,8 +166,5 @@ Technology × mindfulness &nbsp;·&nbsp; AI side projects &nbsp;·&nbsp; video g
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhan890&show_icons=true&theme=default&hide_border=true)
 
-**📍 Tallahassee, FL &nbsp;|&nbsp; U.S. Citizen, eligible for security clearance**
-
-*⭐ Star a repo if it's useful · Questions? [by.sara.khan@gmail.com](mailto:by.sara.khan@gmail.com)*
 
 </div>
