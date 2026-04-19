@@ -165,9 +165,9 @@ Capstone: *Development of a Time Monitoring Application for Birth Defect Registr
 
 | Talk | Venue | Year |
 |------|-------|------|
-| [Practicing Chan While Working](https://www.youtube.com/watch?v=st1kBrb7jKg) | [Tallahassee Chan Center | 2023 |
-| Sports Analytics & R Shiny]()https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rladies.org/chapters/rladies-atlanta/&ved=2ahUKEwjsivyUivuTAxVX1RoGHSvnE9oQFnoECBsQAQ&usg=AOvVaw0qCzDytt_c-F0AIa5LitGc | R-Ladies Atlanta × Atlanta Hawks | 2019 |
-
+| [Practicing Chan While Working](https://www.youtube.com/watch?v=st1kBrb7jKg) | Tallahassee Chan Center | 2023 |
+| Sports Analytics & R Shiny | R-Ladies Atlanta × Atlanta Hawks | 2019 |
+| NBA/WNBA PER Methodology | Emory Sports Analytics Team | 2019 |
 
 ---
 
@@ -189,9 +189,13 @@ Technology × mindfulness &nbsp;·&nbsp; AI side projects &nbsp;·&nbsp; video g
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhan890&show_icons=true&theme=default&hide_border=true)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+**📍 Tallahassee, FL &nbsp;|&nbsp; U.S. Citizen, eligible for security clearance**
+>>>>>>> 201faea (more updates)
 
-
+*⭐ Star a repo if it's useful · Questions? [by.sara.khan@gmail.com](mailto:by.sara.khan@gmail.com)*
 
 >>>>>>> a68e2d0 (more updates)
 </div>
