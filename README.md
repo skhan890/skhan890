@@ -93,7 +93,7 @@ Interactive Shiny app comparing Player Efficiency Ratings across leagues. No pub
 
 ---
 
-### 💛 Donor Revenue Analysis — Chance Center
+### 💛 Donor Revenue Analysis — Chan Center
 
 Integrated 3 disconnected data sources (Donorbox, Luma, Excel) in R. Deduplicated donor identities, tracked payment history and tenure across records. Finding: only ~100 active donors. Directly drove new registration policy + membership survey.
 
@@ -165,9 +165,9 @@ Capstone: *Development of a Time Monitoring Application for Birth Defect Registr
 
 | Talk | Venue | Year |
 |------|-------|------|
-| [Practicing Chan While Working](https://www.youtube.com/watch?v=st1kBrb7jKg) | Tallahassee Chan Center | 2023 |
-| Sports Analytics & R Shiny | R-Ladies Atlanta × Atlanta Hawks | 2019 |
-| NBA/WNBA PER Methodology | Emory Sports Analytics Team | 2019 |
+| [Practicing Chan While Working](https://www.youtube.com/watch?v=st1kBrb7jKg) | [Tallahassee Chan Center | 2023 |
+| Sports Analytics & R Shiny]()https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rladies.org/chapters/rladies-atlanta/&ved=2ahUKEwjsivyUivuTAxVX1RoGHSvnE9oQFnoECBsQAQ&usg=AOvVaw0qCzDytt_c-F0AIa5LitGc | R-Ladies Atlanta × Atlanta Hawks | 2019 |
+
 
 ---
 
@@ -188,4 +188,10 @@ Technology × mindfulness &nbsp;·&nbsp; AI side projects &nbsp;·&nbsp; video g
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhan890&show_icons=true&theme=default&hide_border=true)
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> a68e2d0 (more updates)
 </div>
