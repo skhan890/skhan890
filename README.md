@@ -41,33 +41,32 @@ Data analyst with 9+ years of experience in public health surveillance, federal 
 
 **Languages & Analysis**
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
-![Stata](https://img.shields.io/badge/Stata-1A1A72?style=flat-square)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)](https://www.sas.com/)
+[![Stata](https://img.shields.io/badge/Stata-1A1A72?style=flat-square)](https://www.stata.com/)
 
 **Data Engineering & Infrastructure**
 
-![ETL](https://img.shields.io/badge/ETL_Pipelines-grey?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![REDCap](https://img.shields.io/badge/REDCap-CE0058?style=flat-square)
+ETL Pipelines &nbsp;·&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![REDCap](https://img.shields.io/badge/REDCap-CE0058?style=flat-square)](https://www.project-redcap.org/)
 
 **Visualization & Reporting**
 
-![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square)
+[![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white)](https://shiny.posit.co/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)](https://ggplot2.tidyverse.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 **AI & Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_Pipelines-grey?style=flat-square)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-grey?style=flat-square)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+NLP Pipelines &nbsp;·&nbsp; Anomaly Detection
 
 ---
 
