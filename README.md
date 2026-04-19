@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/sarakha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
-  <a href="https://skhan890.github.io/portfolioo">
+  <a href="https://skhan890.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -32,7 +32,6 @@ Data analyst with deep roots in public health — building CDC surveillance pipe
 - 🎓 **Emory Rollins School of Public Health** — Adjunct Instructor, Biostatistics
 - 📊 **CDC R Users Group** — President & Trainer
 - 🌐 **Dharma Relief** — Founding Operations Lead; $649K raised, 1.2M masks delivered to 173 hospitals
-- 🏨 **Tallahassee Memorial Hospital** — Sr. Data Analyst
 
 ---
 
