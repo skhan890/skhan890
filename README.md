@@ -4,7 +4,6 @@
 
 **Public Health · Clinical Analytics · Federal Contracting · R · SQL · Python**
 
-<<<<<<< HEAD
 <p align="center">
   <a href="https://www.linkedin.com/in/sarakha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,28 +21,19 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </p>
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarakha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skhan890)
-[![Portfolio](https://img.shields.io/badge/Portfoli000?style=for-the-badge&logo=netlify&logoColor=white)](https://skhan890.github.io/portfolioo)
 
 </div>
->>>>>>> a0455be (updates to images and sprucing up portfolio)
 
 ---
 
 ## 👋 Welcome
 
-<<<<<<< HEAD
-Data analyst with deep roots in public health — building CDC surveillance pipelines that shaped WHO policy, teaching R at Emory and the CDC, and finding the story hidden in messy nonprofit donor records. I bring the same rigour to every problem: clean the data, understand it, make it actionable.
+Data analyst with 9+ years of experience in public health surveillance, federal contracting, and nonprofit analytics — building CDC pipelines that shaped WHO policy, teaching R at Emory and the CDC, and finding the story hidden in messy data.
 
 - 🏥 **CDC Global Immunization Division** — Sr. Data Analyst (2016–2019)
 - 🎓 **Emory Rollins School of Public Health** — Adjunct Instructor, Biostatistics
 - 📊 **CDC R Users Group** — President & Trainer
 - 🌐 **Dharma Relief** — Founding Operations Lead; $649K raised, 1.2M masks delivered to 173 hospitals
-=======
-This is my portfolio of data projects spanning federal public health surveillance, nonprofit analytics, sports data, and research. I'm a data analyst with 9+ years of experience applying statistical modeling, custom scripting, and data visualization to complex problems across federal agencies, international programs, and academic settings.
->>>>>>> a0455be (updates to images and sprucing up portfolio)
 
 ---
 
@@ -83,11 +73,43 @@ This is my portfolio of data projects spanning federal public health surveillanc
 
 ## 📊 Project Portfolio
 
-| # | Project | What I Did | Tools | Links |
-|---|---------|-----------|-------|-------|
-| 🦠 | **Global Polio Surveillance Pipeline** | Production ETL pipeline for WHO/IMB across 79 countries. Invented a Spatial Binning method to fix a root data quality problem — one-size-fits-all metrics were hiding virus circulation in small provinces. Added 4 automated surveillance flags. Maintained on GitLab for 2 years. Published *Vaccine X* 2020. | R · SQL · WHO POLIS · WorldPop · GitLab | [Code](https://github.com/skhan890/surv_manuscript) · [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090369/) |
-| 💛 | **Donor Revenue Analysis — Chance Center** | Integrated 3 disconnected data sources (Donorbox, Luma, Excel) in R. Deduplicated donor identities, tracked payment history and tenure across records. Finding: only ~100 active donors. Directly drove new registration policy + membership survey. | R · Data Integration · Excel | Case Study |
-| 🏀 | **NBA × WNBA PER Dashboard** | Built an interactive Shiny app comparing Player Efficiency Ratings across leagues. No public WNBA dataset existed — hand-scraped player data from Wikipedia + scripted Basketball-Reference.com. Presented at R-Ladies Atlanta × Atlanta Hawks. | R Shiny · ggplot2 · tidyverse · Web Scraping | [Code](https://github.com/skhan890/RLadies_Hawks) · [Demo](https://skhan22.shinyapps.io/RLadies_Hawks/) |
+### 🦠 Global Polio Surveillance Pipeline
+
+Production ETL pipeline for WHO/IMB across 79 countries. Invented a Spatial Binning method to fix a root data quality problem — one-size-fits-all metrics were hiding virus circulation in small provinces. Added 4 automated surveillance flags. Maintained on GitLab for 2 years. Published *Vaccine X* 2020.
+
+**Tools:** R · SQL · WHO POLIS · WorldPop · GitLab &nbsp;|&nbsp; [Code](https://github.com/skhan890/surv_manuscript) · [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090369/)
+
+<img src="images/polio_map.png" alt="Polio Surveillance Map" width="700">
+
+---
+
+### 🏀 NBA × WNBA PER Dashboard
+
+Interactive Shiny app comparing Player Efficiency Ratings across leagues. No public WNBA dataset existed — hand-scraped player data from Wikipedia + scripted Basketball-Reference.com. Presented at R-Ladies Atlanta × Atlanta Hawks.
+
+**Tools:** R Shiny · ggplot2 · tidyverse · Web Scraping &nbsp;|&nbsp; [Code](https://github.com/skhan890/RLadies_Hawks) · [Demo](https://skhan22.shinyapps.io/RLadies_Hawks/)
+
+<img src="images/hawks_dashboard.png" alt="Hawks Dashboard" width="700">
+
+---
+
+### 💛 Donor Revenue Analysis — Chance Center
+
+Integrated 3 disconnected data sources (Donorbox, Luma, Excel) in R. Deduplicated donor identities, tracked payment history and tenure across records. Finding: only ~100 active donors. Directly drove new registration policy + membership survey.
+
+**Tools:** R · Data Integration · Excel
+
+---
+
+### 🌐 Dharma Relief — COVID-19 PPE Supply Chain
+
+Led fundraising and logistics for emergency PPE distribution at the start of the pandemic. Raised $649K in 7 weeks, delivered 1.2 million masks to 173 hospitals across North America.
+
+<p>
+  <img src="images/flyer1.jpg" alt="Dharma Relief Flyer" width="340">
+  &nbsp;
+  <img src="images/flyer2.jpg" alt="Dharma Relief Flyer 2" width="340">
+</p>
 
 ---
 
@@ -165,6 +187,5 @@ Technology × mindfulness &nbsp;·&nbsp; AI side projects &nbsp;·&nbsp; video g
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhan890&show_icons=true&theme=default&hide_border=true)
-
 
 </div>
