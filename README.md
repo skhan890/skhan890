@@ -98,17 +98,6 @@ Integrated 3 disconnected data sources (Donorbox, Luma, Excel) in R. Deduplicate
 
 **Tools:** R · Data Integration · Excel
 
----
-
-### 🌐 Dharma Relief — COVID-19 PPE Supply Chain
-
-Led fundraising and logistics for emergency PPE distribution at the start of the pandemic. Raised $649K in 7 weeks, delivered 1.2 million masks to 173 hospitals across North America.
-
-<p>
-  <img src="images/flyer1.jpg" alt="Dharma Relief Flyer" width="340">
-  &nbsp;
-  <img src="images/flyer2.jpg" alt="Dharma Relief Flyer 2" width="340">
-</p>
 
 ---
 
