@@ -24,7 +24,7 @@
 
 ## 👋 Welcome
 
-Data analyst with 9+ years of experience in public health surveillance, federal contracting, and nonprofit analytics — building CDC pipelines that shaped WHO policy, teaching R at Emory and the CDC, and finding the story hidden in messy data.
+Data analyst with 9+ years of experience in public health surveillance, federal contracting, and nonprofit analytics — building CDC data pipelines, teaching R at Emory and the CDC, and finding the story hidden in messy data.
 
 - 🏥 **CDC Global Immunization Division** — Sr. Data Analyst (2016–2019)
 - 🎓 **Emory Rollins School of Public Health** — Adjunct Instructor, Biostatistics
