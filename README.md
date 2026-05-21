@@ -88,6 +88,16 @@ Interactive Shiny app comparing Player Efficiency Ratings across leagues. No pub
 
 ---
 
+### 🛣️ Florida Scenic Highway Corridor Analysis
+
+Interactive Power BI dashboard analyzing Florida's 27 designated scenic highways by traffic volume and points of interest. Converted FDOT shapefile `.dbf` attribute tables to CSV via a custom Python utility (`dbfread`), then modeled the data in Power Query — consolidating 10 source tables into 3. Features a "Chill Rating" metric categorizing routes by daily traffic density, cross-filtered POI recommendations, direct Google Maps navigation per stop, and colorblind-safe visual encoding.
+
+**Tools:** [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) DAX · Azure Maps · FDOT GIS Data &nbsp;|&nbsp; [Live Dashboard](https://app.powerbi.com/groups/me/reports/be6ae089-d04c-4eba-8685-4f91af2ba457/1e29b6435f9494256d6e?experience=power-bi)
+
+<img src="images/florida_scenic_highways.png" alt="Florida Scenic Highway Corridor Dashboard" width="700">
+
+---
+
 ### 💛 Donor Revenue Analysis — Chan Center
 
 Integrated 3 disconnected data sources (Donorbox, Luma, Excel) in R. Deduplicated donor identities, tracked payment history and tenure across records. Finding: only ~100 active donors. Directly drove new registration policy + membership survey.
@@ -170,3 +180,5 @@ Technology × mindfulness &nbsp;·&nbsp; AI side projects &nbsp;·&nbsp; video g
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhan890&show_icons=true&theme=default&hide_border=true)
+
+</div>
