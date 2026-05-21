@@ -70,6 +70,18 @@ NLP Pipelines &nbsp;·&nbsp; Anomaly Detection
 
 ## 📊 Project Portfolio
 
+### 🛣️ Florida Scenic Highway Corridor Analysis (2026)
+
+> *Personal project built using publicly available FDOT data. Not affiliated with or representative of any agency or organization.*
+
+Interactive Power BI dashboard analyzing Florida's 27 designated scenic highways by traffic volume and points of interest. Converted FDOT shapefile `.dbf` attribute tables to CSV via a custom Python utility (`dbfread`), then modeled the data in Power Query — consolidating 10 source tables into 3. Features a "Chill Rating" metric categorizing routes by daily traffic density, cross-filtered POI recommendations, direct Google Maps navigation per stop, and colorblind-safe visual encoding.
+
+**Tools:** [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) DAX · Azure Maps · FDOT GIS Data &nbsp;|&nbsp; [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGEzY2JhZDAtNWYyMi00NmJmLTlmMmItMmM4NmRiZTFmNDI5IiwidCI6IjUxNDAwYjVkLThjN2UtNDYzNC05MTkxLWQyMjEzY2Y5ZTFkYSJ9)
+
+<img src="images/florida_scenic_highways.png" alt="Florida Scenic Highway Corridor Dashboard" width="700">
+
+---
+
 ### 🦠 Global Polio Surveillance Pipeline
 
 Production ETL pipeline for WHO/IMB across 79 countries. Invented a Spatial Binning method to fix a root data quality problem — one-size-fits-all metrics were hiding virus circulation in small provinces. Added 4 automated surveillance flags. Maintained on GitLab for 2 years. Published *Vaccine X* 2020.
@@ -87,16 +99,6 @@ Interactive Shiny app comparing Player Efficiency Ratings across leagues. No pub
 **Tools:** R Shiny · ggplot2 · tidyverse · Web Scraping &nbsp;|&nbsp; [Code](https://github.com/skhan890/RLadies_Hawks) · [Demo](https://skhan22.shinyapps.io/RLadies_Hawks/)
 
 <img src="images/hawks_dashboard.png" alt="Hawks Dashboard" width="700">
-
----
-
-### 🛣️ Florida Scenic Highway Corridor Analysis
-
-Interactive Power BI dashboard analyzing Florida's 27 designated scenic highways by traffic volume and points of interest. Converted FDOT shapefile `.dbf` attribute tables to CSV via a custom Python utility (`dbfread`), then modeled the data in Power Query — consolidating 10 source tables into 3. Features a "Chill Rating" metric categorizing routes by daily traffic density, cross-filtered POI recommendations, direct Google Maps navigation per stop, and colorblind-safe visual encoding.
-
-**Tools:** [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) DAX · Azure Maps · FDOT GIS Data &nbsp;|&nbsp; [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGEzY2JhZDAtNWYyMi00NmJmLTlmMmItMmM4NmRiZTFmNDI5IiwidCI6IjUxNDAwYjVkLThjN2UtNDYzNC05MTkxLWQyMjEzY2Y5ZTFkYSJ9)
-
-<img src="images/florida_scenic_highways.png" alt="Florida Scenic Highway Corridor Dashboard" width="700">
 
 ---
 
