@@ -47,6 +47,7 @@ Data analyst with 9+ years of experience in public health surveillance, federal 
 
 ETL Pipelines &nbsp;·&nbsp;
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![REDCap](https://img.shields.io/badge/REDCap-CE0058?style=flat-square)](https://www.project-redcap.org/)
@@ -57,6 +58,7 @@ ETL Pipelines &nbsp;·&nbsp;
 [![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)](https://ggplot2.tidyverse.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/dax/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
 **AI & Machine Learning**
